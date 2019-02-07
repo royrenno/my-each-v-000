@@ -1,7 +1,7 @@
 def my_each (array)
-  if block_given?
-    i =0
-    
+  array = [2,3,4,5]
+  my_each(array) do |i|
+    puts i
+  end
   # put argument(s) here
-  # code here
-end
+  # code her
