@@ -4,6 +4,6 @@ def my_each (array)
     puts i
   end
 end
-  
+
   # put argument(s) here
   # code her
